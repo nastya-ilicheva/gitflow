@@ -1,1 +1,2 @@
-print(0)
+a = int(input())
+print(f'{a}')
